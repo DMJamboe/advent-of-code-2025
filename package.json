@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "description": "Advent of code 2025",
+  "keywords": [
+    "advent",
+    "of",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "DMJamboe",
+  "type": "module"
+}
